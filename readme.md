@@ -2,7 +2,7 @@
 
 This is transcendental license, or reminder that in absolute sense all results of our work belong to the Supreme Personality of Godhead Kṛṣṇa (also known as Allah, Jehovah and [thousands of names](https://vedabase.io/en/library/sb/10/51/36/)).
 
-Superficially in material world software and IP needs formal license to assign authoring person and/or distribution limitations, but that's temporary designation.
+Superficially in material world software and IP needs formal license to assign authoring/responsible person and/or distribution limitations, but that's temporary designation.
 Where ideas came from and where results will end up does not belong to any of us, and the most meaningful action an intelligent man can take is to devote results of his/her work to the Supreme.
 That process is called _Karma-Yoga_ from ancient times.
 
