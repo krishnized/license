@@ -1,4 +1,4 @@
-# Kṛṣṇzed
+# Kṛṣnized
 
 This is a reminder that in the absolute sense all results of work belong to the Supreme.
 <!-- Personality of Godhead Kṛṣṇa (also known as Allah, Jehovah and [thousands of other names]((https://vedabase.io/en/library/sb/10/51/36/)))-->
