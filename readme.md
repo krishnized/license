@@ -7,4 +7,4 @@ While software and intellectual property (IP) require a formal license to define
 
 “Work done as a sacrifice for the Supreme must be performed; otherwise, work binds one to the material world.”
 
-This license does not override or alter the terms specified by the material-level license (e.g., MIT, ISC, BSD, SIL, etc). But it introduces a guiding principle: good intention for the general public and avoid solely commercial, isolated or self-serving motives.
+This license does not override or alter the terms specified by the material-level license (e.g., MIT, ISC, BSD, SIL, etc) and doesn't have legal force. Rather it serves as a reminder and encourages an ethical principle of good intention for the general public.
