@@ -7,4 +7,4 @@ While software and intellectual property (IP) require a formal license to define
 
 “Work done as a sacrifice for the Supreme must be performed; otherwise, work binds one to the material world.”
 
-This license does not override or alter the terms specified by the material-level license (e.g., MIT, ISC, BSD, SIL, etc) and does not create legal obligations. 
+This license does not override or alter the terms specified by the material-level license (e.g., MIT, ISC, BSD, SIL, etc) and does not create any legal obligations.
