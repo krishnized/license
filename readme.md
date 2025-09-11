@@ -9,4 +9,4 @@ While software and intellectual property (IP) require a formal license to define
 
 This license does not override or alter the terms specified by the material-level license (e.g., MIT, ISC, BSD, SIL, etc).
 
-ॐ तत् सत् 
+ॐ
