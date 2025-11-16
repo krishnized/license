@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./style.css"/>
+
 # Kṛṣnized
 
 This is a reminder that, in the absolute sense, all results of work belong to the Supreme.
